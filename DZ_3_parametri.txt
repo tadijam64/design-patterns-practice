@@ -1,0 +1,33 @@
+područja:DZ_3_podrucja.txt
+ulice:DZ_3_ulice.txt
+spremnici:DZ_3_spremnici.txt
+vozila:DZ_3_vozila.txt
+izlaz:DZ2_ldapKorisnika.txt
+dispečer:DZ_3_dispecer.txt
+ispis:0
+sjemeGeneratora:17153
+brojDecimala:2
+brojRadnihCiklusaZaOdvoz:20
+preuzimanje:0
+maliMin:10
+srednjiMin:20
+velikiMin:30
+maliStaklo:7
+maliPapir:5
+maliMetal:3
+maliBio:10
+maliMješano:30
+srednjiStaklo:20
+srednjiPapir:15
+srednjiMetal:5
+srednjiBio:50
+srednjiMješano:100
+velikiStaklo:50
+velikiPapir:150
+velikiMetal:30
+velikiBio:250
+velikiMješano:300
+kapacitetDizelVozila: 50
+punjenjeDizelVozila: 7
+kapacitetElektroVozila: 30
+punjenjeElektroVozila: 20

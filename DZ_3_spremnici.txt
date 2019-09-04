@@ -1,0 +1,7 @@
+﻿naziv;vrsta: 0 - kanta, 1 - kontejner;1 na broj malih;1 na broj srednjih;1 na broj velikih;nosivost (kg)
+staklo;1;10;1;1;300
+papir;1;5;2;1;200
+metal;1;10;5;3;500
+bio;0;1;1;1;120
+mješano;0;1;0;0;120
+mješano;1;0;3;1;300

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandKontrola.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandPreuzmi.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandGodisnjiOdmor.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/vehicleStates/OnLandfill.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/vehicleStates/Waiting.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/vehicleStates/Refill.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandObradi.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/vehicleStates/Full.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/vehicleStates/Inoperative.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/driverStates/DriverReady.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandKreni.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/driverStates/DriverOnSickLeave.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/vehicleStates/OnControlCheck.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/vehicleStates/ReadyToCollect.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandIzlaz.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/Vehicle.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandIsprazni.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandKvar.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/Dispatcher.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandBolovanje.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/chainOfResponsibility/concreteChain/CommandNovi.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/driverStates/DriverWorking.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/driverStates/DriverFired.java</file>
+            <file>file:/C:/UzDiz/zadaca3/tmalic_zadaca_3/src/org/foi/uzdiz/tmalic/dz3/state/driverStates/DriverOnVacation.java</file>
+        </group>
+    </open-files>
+</project-private>

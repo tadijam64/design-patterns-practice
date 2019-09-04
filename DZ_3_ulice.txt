@@ -1,0 +1,11 @@
+﻿id;naziv;broj mjesta; udio (%) mali;udio (%) srednji;udio (%) veliki
+u1;Pavlinska;10;70;20;10
+u2;Alojzija Stepinca;15;100;0;0
+u3;Petra Krešimira IV;37;50;30;20
+u4;Zrinskih i Frankopana;28;40;30;30
+u5;Krešimira Filića;32;40;20;40
+u6;Tina Ujevića;27;90;10;00
+u7;Ruđera Boškovića;28;50;20;30
+u8;Dravska;12;100;0;00
+u11;Varaždinska;30;80;20;0
+u12;Braće Radića;36;70:30;0

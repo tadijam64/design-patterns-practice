@@ -1,0 +1,8 @@
+﻿id;naziv;tip: 0 - dizel, 1 - električni;vrsta: 0 - staklo, 1 - papir, 2 - metal, 3 - bio, 4 - mješano; nosivost (kg);vozači
+v1;staklarko 1;1;0;4000;pero, ivo
+v2;papirko 1  ;1;1;3000;jura, borko
+v3;metalko 1  ;1;2;5000;tvrtko, kiki
+v4;biotko 1   ;1;3;3000;vesna, rajka
+v5;mješanko 1 ;0;4;4000;zoki, sven, luka
+v6;mješanko 2 ;0;4;5000;hinko, blaž, fran
+v7;mješanko 3 ;0;4;3000;dudo, viki, miki

@@ -1,0 +1,9 @@
+id;naziv;dijelovi
+p1;EZO Aglomeracija Varaždin;
+p2;Varaždin grad;p4,p5,p6
+p3;Varaždin okolica;p7,p8
+p4;Centar;u1,u2,u3
+p5;Banfica;u7,u8
+p6;Đurek;u4,u5,u6
+p7;Hrašcica;u11
+p8:Jalkovec;u12
